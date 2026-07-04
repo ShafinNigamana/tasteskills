@@ -1,3 +1,5 @@
+<div align="center">
+
 # tasteskills: The Anti-Slop Visual Framework for Antigravity
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -7,6 +9,8 @@
 Standard AI coding agents suffer from strong default biases: they output narrow column layouts, generic Inter-based grids, AI-purple gradient bubbles, and lazy placeholder comments (`// ... rest of code`).
 
 **tasteskills** is a curated layout and visual design framework ported specifically for the **Antigravity AI Agent**. It enforces premium spacing, layout asymmetry, spring physics, and high-end typography rules while hooking natively into the IDE's tool stack.
+
+</div>
 
 ---
 
